@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1018701501338",
+    "firebase_url": "https://lab4-illaila-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "lab4-illaila",
+    "storage_bucket": "lab4-illaila.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018701501338:android:04b44d937c95a363baa023",
+        "android_client_info": {
+          "package_name": "com.example.lab4_illaila"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8j5kJ0morcqHPdJpR2M8Ogn3E1Qs3DOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
